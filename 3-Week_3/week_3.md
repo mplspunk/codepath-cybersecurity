@@ -9,3 +9,4 @@
 - [ ] Challenges 5 & 6 - Cross-site Scripting 5 & 6 (Stretch)
 
 ## Week 3 Project - XSS prompt(1) to Win: 
+<img src="https://github.com/mplspunk/codepath-cybersecurity/blob/main/3-Week_3/prompttowin.gif" width=500><br>
