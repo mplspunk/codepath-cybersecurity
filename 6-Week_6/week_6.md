@@ -9,3 +9,6 @@
 - [x] Challenge 5 - Password Hashing 2
 - [x] Challenge 6 - Password Hashing 3
 - [x] Stretch Challenge 7 - Password Hashing 4
+
+## Hashcat
+<img src="https://github.com/mplspunk/codepath-cybersecurity/blob/main/6-Week_6/hashcat.gif" width=1000><br>
